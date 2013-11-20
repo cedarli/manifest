@@ -1,0 +1,4 @@
+manifest
+========
+
+Manager github repository

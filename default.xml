@@ -10,5 +10,13 @@
         sync-j="4" />
 
     <project path="local/vim" name="vim" />
+    <project path="local/git" name="git" />
+    <project path="local/zsh" name="zsh" />
+    <project path="local/linux" name="linux" />
+    <project path="local/video" name="video" />
+    <project path="local/adt_bundle_linux" name="adt_bundle_linux" />
+    <project path="local/bash" name="bash" />
+    <project path="local/apktool" name="apktool" />
+    <project path="local/crontab" name="crontab" />
     <project path="bin" name="bin" />
 </manifest>

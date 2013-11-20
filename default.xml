@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote  name="origin"
+        fetch="https://github.com/cedarli/"
+        review="https://github.com/cedarli/" />
+
+    <default revision="master"
+        remote="origin"
+        sync-j="4" />
+
+    <project path="local/vim" name="vim" />
+    <project path="bin" name="bin" />
+</manifest>

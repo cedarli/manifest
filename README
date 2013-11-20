@@ -1,0 +1,3 @@
+Create repositroy
+repo init -u git@github.com/cedarli/manifest.git -b master
+repo sync

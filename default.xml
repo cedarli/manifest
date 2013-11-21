@@ -12,6 +12,7 @@
     <project path="local/vim" name="vim" />
     <project path="local/git" name="git" />
     <project path="local/zsh" name="zsh" />
+    <project path="local/pdf" name="pdf" />
     <project path="local/linux" name="linux" />
     <project path="local/video" name="video" />
     <project path="local/adt_bundle_linux" name="adt_bundle_linux" />

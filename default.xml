@@ -22,6 +22,6 @@
     <project path="local/java" name="java" />
     <project path="local/gnome-shell" name="gnome-shell" />
     <project path="local/android" name="android" />
-    <project path="local/video.js" name="video.js" />
+    <project path="local/video-js" name="video-js" />
     <project path="bin" name="bin" />
 </manifest>

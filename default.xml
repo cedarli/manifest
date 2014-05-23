@@ -21,5 +21,6 @@
     <project path="local/crontab" name="crontab" />
     <project path="local/java" name="java" />
     <project path="local/gnome-shell" name="gnome-shell" />
+    <project path="local/android" name="android" />
     <project path="bin" name="bin" />
 </manifest>
